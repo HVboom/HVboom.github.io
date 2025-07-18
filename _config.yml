@@ -1,0 +1,13 @@
+title: HVboom Knowledge Base
+description: Personal documentation hub for AI, development and tooling
+theme: just-the-docs
+url: "https://hvboom.org"
+baseurl: ""
+logo: assets/logo.png
+nav:
+  - title: "Kai (AI Toolkit)"
+    url: /kai/
+  - title: "Jacky (Documentation Setup)"
+    url: /jacky/
+search_enabled: true
+last_edit_time_format: "%Y-%m-%d"
