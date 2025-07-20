@@ -1,10 +1,14 @@
 ---
-title: Home
-nav_order: 1
-last_modified_date: 2025-07-15
+layout: default
+title: Welcome to HVboom Knowledge Base
 ---
 
-# Welcome to HVboom.org
+# 👋 Welcome
 
-This site serves as your personal hub for knowledge documentation.  
-Use the navigation to explore your **AI Toolkit (Kai)** or the **Documentation Setup (Jacky)** sections.
+This site serves as your central workspace for AI prompts, developer operations, and documentation for Ruby on Rails and other projects.
+
+Start by exploring:
+
+- 📄 Domain Setup Instructions
+- 💬 Prompt Canvas Templates
+- 🚀 App Docs (coming soon)

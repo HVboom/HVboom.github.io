@@ -1,13 +1,12 @@
 title: HVboom Knowledge Base
-description: Personal documentation hub for AI, development and tooling
-theme: just-the-docs
-url: "https://hvboom.org"
-baseurl: ""
-logo: assets/logo.png
-nav:
-  - title: "Kai (AI Toolkit)"
-    url: /kai/
-  - title: "Jacky (Documentation Setup)"
-    url: /jacky/
-search_enabled: true
-last_edit_time_format: "%Y-%m-%d"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+author: HVboom
+description: Personal AI + DevOps Workspace Documentation
+url: "https://home.hvboom.biz"
+
+show_excerpts: true
+
+github_username: HVboom
